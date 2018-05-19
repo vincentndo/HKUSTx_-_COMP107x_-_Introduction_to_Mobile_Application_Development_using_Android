@@ -1,1 +1,1 @@
-# HKUSTx_-_COMP107x_-_Introduction_to_Mobile_Application_Development_using_Android
+# HKUSTx - COMP107x - Introduction to Mobile Application Development using Android
