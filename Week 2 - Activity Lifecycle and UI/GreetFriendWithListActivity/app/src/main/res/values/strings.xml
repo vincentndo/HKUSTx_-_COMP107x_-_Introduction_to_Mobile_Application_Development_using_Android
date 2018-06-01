@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GreetFriendWithListActivity</string>
+
+    <string-array name="friends">
+        <item>Angelo</item>
+        <item>Vincent</item>
+        <item>John</item>
+        <item>Paul</item>
+        <item>George</item>
+    </string-array>
+</resources>
